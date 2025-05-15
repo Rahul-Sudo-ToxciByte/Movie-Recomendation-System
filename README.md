@@ -7,7 +7,7 @@ HTML, CSS, Python, Jupyter Notebook, Pickle, kaggle, Google Colab
 ## Some Glimpse 🤩 :
 <table>
  <tr>
-  <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747295029/tx1ib92lqdbexgirqdq1.jpg" width="500"></td>
+  <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747317586/Github%20Project/ckwu3dmp484apnaxsew9.jpg" width="500"></td>
   <!-- <td><img src = "https://res.cloudinary.com/phantomping/image/upload/v1747293525/nalenbpupbhhfldrkn2w.png" width="500"></td> -->
  </tr>
 </table>
